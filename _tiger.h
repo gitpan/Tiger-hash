@@ -4,6 +4,7 @@
 #define TIGER_H
 
 #include <stdio.h>
+#include "endian.h"
 
 typedef unsigned long long int u64;
 typedef unsigned long u32;
